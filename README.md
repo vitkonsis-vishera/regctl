@@ -1,5 +1,8 @@
 # regctl - Terminal Docker Registry Manager
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/47df0692-8917-4dcb-833a-cc0c4fb0bd93" />
+
+
 [English](#english) | [Русский](#русский)
 
 ---
